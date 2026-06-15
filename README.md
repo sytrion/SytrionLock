@@ -1,9 +1,11 @@
 ============================================================================
+
 # SYTRIONLOCK - Username Checker
 
 NOTE : This is a simple and legal!
 
 ============================================================================
+
 Turkish
 ### About
 Bu araç, birden fazla sosyal medya platformunda username (kullanıcı adı) kontrolü yapmanızı sağlar. 
